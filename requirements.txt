@@ -1,0 +1,6 @@
+discord.py[voice]>=2.3.2
+google-api-python-client>=2.34.0
+googletrans==4.0.0-rc1
+google-cloud-texttospeech
+psycopg2
+pytz
