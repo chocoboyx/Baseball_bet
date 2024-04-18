@@ -5,5 +5,5 @@ GameDB:賽局資料庫操作
 UserDB:使用者資料庫操作  
 
 ################################  
-Database:PosgreSQL
+Database:PosgreSQL  
 OS      :Ubuntu 22   
